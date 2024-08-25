@@ -1,0 +1,72 @@
+
+
+
+.home
+{
+  min-height: calc(81vh - 100px);
+}
+
+.card
+{
+  margin-top: 8%;
+  border: none;
+  outline: none;
+  position: relative;
+}
+
+.buttons
+{
+  margin-top: 25px
+}
+.resetIcon
+{
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 30px;
+}
+
+.resetIcons
+{
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 2%;
+  
+}
+
+
+
+
+
+
+.cardSet
+{
+
+  margin-top: 57px;
+
+}
+
+.microIcon
+{
+  border-radius: 100px;
+  width: 60px;
+  outline:none;
+  border: none;
+  
+}
+
+.cla
+{
+  border-radius: 100px;
+  width: 60px;
+  outline:none;
+  border: none;
+  
+}
+
+
+.spin
+{
+     
+     margin-top: 20%;
+     
+}
